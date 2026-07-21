@@ -1,8 +1,0 @@
-## 📌 Project Overview
-A Discrete Mathematics utility tool built with HTML, CSS, and JavaScript. 
-It evaluates compound propositional expressions and automatically generates a dynamic Truth Table.
-
-### Solved Expressions:
-1. $p \lor \neg q$
-2. $(p \land q) \rightarrow \neg r$
-3. $(q \rightarrow \neg r) \leftrightarrow p$
